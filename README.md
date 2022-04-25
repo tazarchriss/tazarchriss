@@ -1,4 +1,4 @@
-### Hi there 👋
+###  TazarCodes
 
 - 🔭 I’m currently working on Web based Applications
 <!--
