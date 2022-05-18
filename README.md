@@ -63,9 +63,6 @@ Here are some ideas to get you started:
 </p>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazarchriss)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
