@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tazarchriss)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tazarchriss&show_icons=true)  
