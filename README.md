@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasper-rupia&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tazarchriss&show_icons=true)  
 
 
 
