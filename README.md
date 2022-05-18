@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 *NOTE: Top languages does not indicate my skill level or something like that. But gitHub merics of laguages publish most*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-rupia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tazarchriss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
